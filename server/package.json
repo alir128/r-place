@@ -1,0 +1,17 @@
+{
+  "name": "websocket-server-rplace",
+  "version": "1.0.0",
+  "description": "Websocket server used for rplace implementation.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.807.0",
+    "express": "^4.17.1",
+    "ioredis": "^4.19.2",
+    "ws": "^7.4.0"
+  }
+}
